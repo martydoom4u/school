@@ -1,0 +1,22 @@
+#inf-logo{
+  color: #21872f;
+  height:40px;
+  width:100px;
+  margin-left:-30%;
+}
+#cal-logo{
+  height:40px;
+  margin-left:-25%;
+  width:100px;
+  color: #21872f;
+}
+#pot-logo{
+  height:40px;
+  width: 100px;
+  margin-left:-20px;
+  color: #21872f;
+}
+.lokaal1{
+  font-family: 'Rubik', sans-serif;
+  border: 2px solid black;
+}
